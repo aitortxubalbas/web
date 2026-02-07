@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+h1 {
+    font-size: 40px;
+    color: white;
+}
+p {
+    font-size: 16px;
+    color: white;
+}
+.imagen1 {
+    width: 300px;
+    height: auto;
+}
